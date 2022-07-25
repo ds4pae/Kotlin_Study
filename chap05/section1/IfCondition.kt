@@ -13,6 +13,8 @@ fun main() {
         b
     }
 
+    //val max = if(a > b) a else b
+
     println("max $max")
 
 }
